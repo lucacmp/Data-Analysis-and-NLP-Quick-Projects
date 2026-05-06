@@ -18,9 +18,7 @@ Confronto tra tecniche di riduzione della dimensionalità e analisi delle correl
 *   **Strumenti:** Python, Pandas, Scikit-learn, SciPy, Matplotlib.
 *   **Struttura:** Notebook commentato e generazione automatizzata di dataset ridotti in formato `.csv`.
 
----
 *Nuovi progetti in arrivo a breve...*
----
 
 #### ⚙️ Come utilizzare questa repository
 
