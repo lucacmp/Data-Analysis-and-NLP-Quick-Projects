@@ -1,4 +1,4 @@
-# 📊 Data Analysis & NLP Quick Projects
+## 📊 Data Analysis & NLP Quick Projects
 
 Questa repository è una raccolta (ancora in evoluzione) di progetti veloci, esercitazioni e *homework* accademici, il cui obiettivo è quello di fornire una panoramica più generale dei task su cui ho lavorato e degli strumenti utilizzati.
 
@@ -22,6 +22,6 @@ Confronto tra tecniche di riduzione della dimensionalità e analisi delle correl
 *Nuovi progetti in arrivo a breve...*
 ---
 
-## ⚙️ Come utilizzare questa repository
+#### ⚙️ Come utilizzare questa repository
 
 Ogni progetto può essere facilmente riprodotto in locale clonando la repository.
