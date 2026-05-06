@@ -18,6 +18,20 @@ Confronto tra tecniche di riduzione della dimensionalità e analisi delle correl
 *   **Strumenti:** Python, Pandas, Scikit-learn, SciPy, Matplotlib.
 *   **Struttura:** Notebook commentato e generazione automatizzata di dataset ridotti in formato `.csv`.
 
+---
+
+### 2. [Banking Customer Sentiment Analysis](./banking-customer-intent-analysis/)
+Il progetto consite nello sviluppo di una pipeline di NLP in grado di individuare all'interno di un dataset di messaggi di clienti di un servizio di banking
+i topic maggiormente critici. 
+
+
+*   **Strumenti:** Python, NLP (Natural Language Processing), BERT Embeddings, SpaCy, Hugging Face, Scikit-learn, Matplotlib.
+*   **Dataset:** *nataliaElv/banking77_topic_and_sentiment*
+*   **Pipeline di data cleaning:** Implementazione di un sistema di preprocessing, lemmatizzazione, rimozione stop-words e  filtraggio semantico.
+*   **Modello di embedding:** *Transformer (BERT-based)* implementato tramite *Sentence-Transformers* per catturare il contesto semantico delle query.
+*   **Sviluppo del Classificatore:** Creazione di un modello per la classificazione dei topic, che raggiunge un'accuratezza del **76%** su una tassonomia complessa di 48 intenti bancari diversi.
+*   **Analisi dei Risultati:** Correlazione statistica tra i topic emersi e il sentiment negativo per mappare i degli utenti (es. gestione delle carte in scadenza), fornendo dati azionabili per il miglioramento del customer care.
+
 *Nuovi progetti in arrivo a breve...*
 
 #### ⚙️ Come utilizzare questa repository
