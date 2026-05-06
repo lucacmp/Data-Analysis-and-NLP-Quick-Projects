@@ -10,7 +10,7 @@ La raccolta è eterogenea, com'è eterogeneo il mio percorso di formazione, i co
 
 La repository è organizzata in cartelle monotematiche. Ogni progetto è autonomo e contiene codice, output e documentazione.
 
-### 1. [Analisi della Dimensionalità e Correlazioni](./Correlation-between-factors-%26-dimensionality-reduction)
+### 1. [Analisi della Dimensionalità e Correlazioni](./Correlation-between-factors-and-dimensionality-reduction)
 Confronto tra tecniche di riduzione della dimensionalità e analisi delle correlazioni su toy dataset di Scikit-learn.
 
 *   **Obiettivi:** Implementazione modulare di PCA e SVD; calcolo e visualizzazione delle correlazioni (Pearson, Spearman).
